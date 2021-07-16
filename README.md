@@ -15,11 +15,11 @@ Clustering is one of the most popular unsupervised machine learning techniques. 
       - Elbow Method
       - Average Silhouette Method
       - Gap Statistic Method
-    - Plot Clusters and Interpret
+    - Plot Clusters and Interpret Clustering Results
     - Plot 3D Scatter Plot
 2. DBScan
    - Find Optimal knee (eps/radius)
-   - Plot Clusters and Interpret
+   - Plot Clusters and Interpret Clustering Results
 ## Conclusion
 To sum up, being able to determine different segments of customers can help the marketing team approach those customer segments in unique ways. For example, based on customer clustering analysis of K-Means, I could give three data-driven recommendations.
 1. Blue (Target customers, High annual income and High spending score): the mall can give them some special services, showing their importances to retain them as they give the most profit margin.
