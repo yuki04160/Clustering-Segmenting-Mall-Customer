@@ -11,7 +11,7 @@ Clustering is one of the most popular unsupervised machine learning techniques. 
 2. Data Standardization
 ## Data Modeling
 1.  K-Means
-    - Determining Optimal Clusters (K)
+    - Determine Optimal Clusters (K)
       - Elbow Method
       - Average Silhouette Method
       - Gap Statistic Method
