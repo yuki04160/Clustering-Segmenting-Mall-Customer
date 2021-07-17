@@ -12,7 +12,7 @@ Clustering is one of the most popular unsupervised machine learning techniques. 
    - Data standardization
      - Since K-Means is a distance-based algorithm and "age", "annual income", and "spending score" have different units of measurements, I standardized the data to have a mean of 0 and a standard deviation of 1.
 ## Data Modeling
-1.  K-Means
+1.  K-means
     - Determine optimal clusters (K)
       - Elbow method
       - Average silhouette method
