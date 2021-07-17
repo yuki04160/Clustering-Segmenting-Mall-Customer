@@ -20,7 +20,7 @@ Clustering is one of the most popular unsupervised machine learning techniques. 
     - I plotted clusters and interpreted clustering results
     - I plotted 3D scatter plot
 2. DBScan
-   - To find optimal knee (eps/radius), I used k-distance curve
+   - To find optimal knee (eps/radius), I built a k-distance curve
    - I plotted clusters and interpreted clustering results
 ## Conclusion
 To sum up, being able to determine different segments of customers can help the marketing team approach those customer segments in unique ways. For example, based on customer clustering analysis of K-Means, I could give three data-driven recommendations.
