@@ -8,20 +8,20 @@ Clustering is one of the most popular unsupervised machine learning techniques. 
    - Missing value & Outlier treatment
 ## Data Preprocessing
    - Choose variables
-     - I decided to use numerical variables: age, annual income, and spending score
+     - I decided to use numerical variables: age, annual income, and spending score.
    - Data standardization
-     - Since K-Means is a distance-based algorithm and "age", "annual income", and "spending score" have different units of measurements, I standardized the data to have a mean of 0 and a standard deviation of 1
+     - Since K-Means is a distance-based algorithm and "age", "annual income", and "spending score" have different units of measurements, I standardized the data to have a mean of 0 and a standard deviation of 1.
 ## Data Modeling
 1.  K-means
     - To determine optimal clusters (K), I used three methods:
       - Elbow method
       - Average silhouette method
       - Gap statistic method
-    - I plotted clusters and interpreted clustering results
-    - I plotted 3D scatter plot
+    - I plotted clusters and interpreted clustering results.
+    - I plotted 3D scatter plot.
 2. DBScan
-   - To find optimal knee (eps/radius), I plotted a k-distance curve
-   - I plotted clusters and interpreted clustering results
+   - To find optimal knee (eps/radius), I plotted a k-distance curve.
+   - I plotted clusters and interpreted clustering results.
 ## Conclusion
 To sum up, being able to determine different segments of customers can help the marketing team approach those customer segments in unique ways. For example, based on customer clustering analysis results of K-Means, I could give three data-driven recommendations:
 1. Blue (Target customers, High annual income and High spending score): the mall can give them some special services, showing their importances to retain them as they give the most profit margin.
