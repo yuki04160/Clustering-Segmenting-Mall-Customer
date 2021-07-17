@@ -3,12 +3,14 @@ To cluster mall customers, I conducted two unsupervised machine learning algorit
 ## Introduction
 Clustering is one of the most popular unsupervised machine learning techniques. The data can be divided on the basis of centroids (K-Means), densities (DBScan), etc. Thus, the project aims to use two different clustering methods to find customer segments in the mall.
 ## Exploratory Data Analysis
-1. Univariate analysis
-2. Bi-variate analysis
-3. Missing value & Outlier treatment
+   - Univariate analysis
+   - Bi-variate analysis
+   - Missing value & Outlier treatment
 ## Data Preprocessing
-1. Choose variables
-2. Data standardization
+   - Choose variables
+     - age, annual income, and spending score
+   - Data standardization
+     - Since K-Means is a distance-based algorithm and "age", "annual income", and "spending score" have different units of measurements, I standardized the data to have a mean of zero and a standard deviation of one.
 ## Data Modeling
 1.  K-Means
     - Determine optimal clusters (K)
