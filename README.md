@@ -1,5 +1,5 @@
 # Clustering - Segmenting Mall Customer
-To cluster mall customers and give data-driven business strategies to the marketing team, I conducted two unsupervised machine learning algorithms, K-Means and DBScan, in R using Kaggle dataset - [Mall Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
+To segment mall customers and give data-driven business strategies to the marketing team, I conducted two unsupervised machine learning algorithms, K-Means and DBScan, in R using Kaggle dataset - [Mall Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
 ## Introduction
 Clustering is one of the most popular unsupervised machine learning techniques. The data can be divided on the basis of centroids (K-Means), densities (DBScan), etc. Thus, the project aims to use two different clustering methods to find customer segments in the mall.
 ## Exploratory Data Analysis
