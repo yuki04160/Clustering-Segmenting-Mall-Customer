@@ -8,7 +8,7 @@ Clustering is one of the most popular unsupervised machine learning techniques. 
    - Missing value & Outlier treatment
 ## Data Preprocessing
    - Choose variables
-     - age, annual income, and spending score
+     - I decided to use numerical variables: age, annual income, and spending score
    - Data standardization
      - Since K-Means is a distance-based algorithm and "age", "annual income", and "spending score" have different units of measurements, I standardized the data to have a mean of 0 and a standard deviation of 1.
 ## Data Modeling
