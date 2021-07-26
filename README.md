@@ -27,6 +27,6 @@ Overall, K-Means performed better than DBScan. Being able to determine different
 
 ![mall customer 6 clusters](https://user-images.githubusercontent.com/74026413/126394611-d5ac732e-9b80-471e-ae3d-fd7824e26a93.png)
 
-1. <strong>Blue</strong> (Target customers, High annual income and High spending score): the mall can give them some special services, showing their importance to retain them as they give the most profit margin.
+1. <strong>Blue</strong> (Target customers, High annual income and High spending score): the mall can give them some special services, showing their significance to retain them as they give the most profit margin.
 2. <strong>Beige</strong> (Low annual income and Low spending score): the mall can send them extra offers or discounts to attract them towards spending.
 3. <strong>Barbie Pink</strong> (Upper Middle to High annual income but Low spending score): the mall can investigate those customers in-detail to find whether they are unsatisfied or unhappy with the mall’s services. Then, if the mall can solve the problems, those customers can then become higher spenders, as they have the potential to spend more money.
